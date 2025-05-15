@@ -1,2 +1,3 @@
 # sweeping-robot
-Robotics final project
+
+Run code/main.m in MATLAB R2024b.
